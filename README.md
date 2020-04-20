@@ -1,6 +1,6 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png"></p>
 
-# Laravel crash course
+# Django with Docker
 
 Use:
 Terminal => Linux or MacOs (... or Windows)
